@@ -172,6 +172,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Docker İpuçları](http://www.gokhansengun.com/docker-ipuclari-soru-ve-cevaplar-bolum-1/) - [Gökhan Şengün](https://twitter.com/gokhansengun)
 - [Docker Serisi](https://medium.com/monitisemea/docker-serisi-1-1c6629499b9a) - Alper Kanat
 - [Docker ve PHP](https://mksglu.gitbooks.io/php-ile-docker-gelistirelim/content/) - [Mert Köseoğlu](https://twitter.com/mksglu)
+- [Hızlandırılmış Docker Eğitimi](https://www.youtube.com/watch?v=ACr92yZF0bg&list=PLm8ggkC19szBMSGtbIa1kZe8ErL2pstAP) - [aytitech](https://www.youtube.com/channel/UCcz6aio46vchavPe-qDA_jw)
 
 
 ### Electron
